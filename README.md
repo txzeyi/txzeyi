@@ -15,11 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-周通，前端菜鸟。 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tong-dada&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+周通，前端菜鸟。 
 
 - 🌱 I’m currently learning ... 
 
-
+<a href="https://github.com/anuraghazra/convoychat">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tong-dada&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</a>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tong-dada&count_private=true&show_icons=true&theme=dark&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
 
