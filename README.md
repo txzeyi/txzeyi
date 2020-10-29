@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning ...
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tong-dada&count_private=true&show_icons=true&theme=dark&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tong-dada&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tong-dada&count_private=true&show_icons=true&theme=dark&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
