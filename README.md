@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-周通，前端菜鸟。
+周通，前端菜鸟。 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tong-dada&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🌱 I’m currently learning ... [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tong-dada&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+- 🌱 I’m currently learning ... 
 
 
 
