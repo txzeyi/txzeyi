@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-周通，前端菜鸟。 
+<!-- 周通，前端菜鸟。--> 
 
 - 🌱 I’m currently learning ... 
 
